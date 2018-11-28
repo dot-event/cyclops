@@ -21,7 +21,14 @@
     "version": {}
   },
   "bin": {
-    "dot-watchman": "./node_modules/dot-watchman/bin/dot-watchman"
+    "dot-crypt": "./bin/dot",
+    "dot-fs": "./bin/dot",
+    "dot-git": "./bin/dot",
+    "dot-link": "./bin/dot",
+    "dot-spawn": "./bin/dot",
+    "dot-starter": "./bin/dot",
+    "dot-version": "./bin/dot",
+    "dot-watchman": "./bin/dot"
   },
   "dependencies": {
     "@dot-event/crypt": "0.1.7",
