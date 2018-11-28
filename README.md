@@ -6,11 +6,11 @@ dot-event executables
 
 | Packages | Command |
 | -------- | ------- |
-| [@dot-event/crypt](github.com/dot-event/crypt) | `dot-crypt`
-| [@dot-event/fs](github.com/dot-event/fs) | `dot-fs`
-| [@dot-event/git](github.com/dot-event/git) | `dot-git`
-| [@dot-event/link](github.com/dot-event/link) | `dot-link`
-| [@dot-event/spawn](github.com/dot-event/spawn) | `dot-spawn`
-| [@dot-event/starter](github.com/dot-event/starter) | `dot-starter`
-| [@dot-event/version](github.com/dot-event/version) | `dot-version`
-| [@dot-event/watchman](github.com/dot-event/watchman) | `dot-watchman`
+| [@dot-event/crypt](https://github.com/dot-event/crypt) | `dot-crypt`
+| [@dot-event/fs](https://github.com/dot-event/fs) | `dot-fs`
+| [@dot-event/git](https://github.com/dot-event/git) | `dot-git`
+| [@dot-event/link](https://github.com/dot-event/link) | `dot-link`
+| [@dot-event/spawn](https://github.com/dot-event/spawn) | `dot-spawn`
+| [@dot-event/starter](https://github.com/dot-event/starter) | `dot-starter`
+| [@dot-event/version](https://github.com/dot-event/version) | `dot-version`
+| [@dot-event/watchman](https://github.com/dot-event/watchman) | `dot-watchman`
