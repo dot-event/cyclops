@@ -1,7 +1,7 @@
 {
   "name": "cyclops",
   "version": "1.5.0",
-  "description": "dot-event operations",
+  "description": "dot-event executables",
   "keywords": [
     "dot-event"
   ],
@@ -19,6 +19,9 @@
     "spawn": {},
     "starter": {},
     "version": {}
+  },
+  "bin": {
+    "dot-watchman": "./node_modules/dot-watchman/bin/dot-watchman"
   },
   "dependencies": {
     "@dot-event/crypt": "0.1.7",
