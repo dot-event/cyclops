@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
 
-me=`basename "$0"`
-eval "$me $@"
+bin=`basename "$0"`
+nodot=${bin:4}
+eval "$NODE_PATH/cyclops/node_modules/\@dot-event/$nodot/bin/$bin $@"
