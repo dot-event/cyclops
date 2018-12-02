@@ -1,6 +1,6 @@
 {
   "name": "cyclops",
-  "version": "1.8.7",
+  "version": "1.8.8",
   "description": "dot-event executables",
   "keywords": [
     "dot-event"
@@ -35,11 +35,11 @@
     "@dot-event/crypt": "0.1.12",
     "@dot-event/fs": "1.11.10",
     "@dot-event/git": "0.6.12",
-    "@dot-event/kubes": "0.0.3",
-    "@dot-event/link": "0.6.11",
+    "@dot-event/kubes": "0.0.4",
+    "@dot-event/link": "0.6.12",
     "@dot-event/spawn": "2.6.9",
-    "@dot-event/starter": "1.5.9",
-    "@dot-event/version": "0.7.13",
-    "@dot-event/watchman": "0.6.10"
+    "@dot-event/starter": "1.5.10",
+    "@dot-event/version": "0.7.14",
+    "@dot-event/watchman": "0.6.11"
   }
 }
