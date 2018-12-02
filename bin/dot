@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+base="$(dirname "$0")"
+src="$(dirname "$(readlink "$0")")"
 bin=`basename "$0"`
 nodot=${bin:4}
-exec $NODE_PATH/cyclops/node_modules/\@dot-event/$nodot/bin/$bin "$@"
+
+exec $base/$src/../node_modules/\@dot-event/$nodot/bin/$bin "$@"
