@@ -32,7 +32,7 @@
     "dot-watchman": "./bin/dot"
   },
   "dependencies": {
-    "@dot-event/crypt": "0.1.17",
+    "@dot-event/crypt": "0.1.18",
     "@dot-event/fs": "1.11.13",
     "@dot-event/git": "0.6.15",
     "@dot-event/kubes": "0.0.6",
