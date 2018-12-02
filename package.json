@@ -24,6 +24,7 @@
     "dot-crypt": "./bin/dot",
     "dot-fs": "./bin/dot",
     "dot-git": "./bin/dot",
+    "dot-kubes": "./bin/dot",
     "dot-link": "./bin/dot",
     "dot-spawn": "./bin/dot",
     "dot-starter": "./bin/dot",
@@ -34,10 +35,11 @@
     "@dot-event/crypt": "0.1.9",
     "@dot-event/fs": "1.11.7",
     "@dot-event/git": "0.6.10",
+    "@dot-event/kubes": "0.0.1",
     "@dot-event/link": "0.6.9",
     "@dot-event/spawn": "2.6.8",
     "@dot-event/starter": "1.5.8",
     "@dot-event/version": "0.7.9",
-    "@dot-event/watchman": "0.6.8"
+    "@dot-event/watchman": "0.6.9"
   }
 }
