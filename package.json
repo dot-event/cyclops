@@ -35,7 +35,7 @@
     "@dot-event/crypt": "0.1.11",
     "@dot-event/fs": "1.11.9",
     "@dot-event/git": "0.6.12",
-    "@dot-event/kubes": "0.0.2",
+    "@dot-event/kubes": "0.0.3",
     "@dot-event/link": "0.6.11",
     "@dot-event/spawn": "2.6.9",
     "@dot-event/starter": "1.5.9",
