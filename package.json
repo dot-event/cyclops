@@ -35,7 +35,7 @@
   "dependencies": {
     "@dot-event/crypt": "0.1.23",
     "@dot-event/fs": "1.11.15",
-    "@dot-event/gcloud": "0.0.4",
+    "@dot-event/gcloud": "0.0.5",
     "@dot-event/git": "0.6.21",
     "@dot-event/kubes": "0.0.9",
     "@dot-event/link": "0.6.16",
