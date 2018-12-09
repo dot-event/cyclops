@@ -8,6 +8,7 @@ dot-event executables
 | -------- | ------- |
 | [@dot-event/crypt](https://github.com/dot-event/crypt) | `dot-crypt`
 | [@dot-event/fs](https://github.com/dot-event/fs) | `dot-fs`
+| [@dot-event/gcloud](https://github.com/dot-event/gcloud) | `dot-gcloud`
 | [@dot-event/git](https://github.com/dot-event/git) | `dot-git`
 | [@dot-event/kubes](https://github.com/dot-event/kubes) | `dot-kubes`
 | [@dot-event/link](https://github.com/dot-event/link) | `dot-link`
