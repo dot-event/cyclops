@@ -37,7 +37,7 @@
     "@dot-event/fs": "1.11.15",
     "@dot-event/gcloud": "0.0.5",
     "@dot-event/git": "0.6.21",
-    "@dot-event/kubes": "0.0.9",
+    "@dot-event/kubes": "0.0.10",
     "@dot-event/link": "0.6.16",
     "@dot-event/spawn": "2.6.17",
     "@dot-event/starter": "1.5.18",
