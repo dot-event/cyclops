@@ -28,6 +28,7 @@
     "dot-kubes": "./bin/dot",
     "dot-link": "./bin/dot",
     "dot-spawn": "./bin/dot",
+    "dot-ssl": "./bin/dot",
     "dot-starter": "./bin/dot",
     "dot-version": "./bin/dot",
     "dot-watchman": "./bin/dot"
@@ -40,6 +41,7 @@
     "@dot-event/kubes": "0.0.22",
     "@dot-event/link": "0.6.25",
     "@dot-event/spawn": "2.6.26",
+    "@dot-event/ssl": "0.0.4",
     "@dot-event/starter": "1.5.29",
     "@dot-event/version": "0.7.37",
     "@dot-event/watchman": "0.6.27"
