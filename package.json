@@ -37,10 +37,10 @@
     "@dot-event/fs": "1.11.22",
     "@dot-event/gcloud": "0.0.13",
     "@dot-event/git": "0.6.28",
-    "@dot-event/kubes": "0.0.19",
+    "@dot-event/kubes": "0.0.20",
     "@dot-event/link": "0.6.23",
     "@dot-event/spawn": "2.6.24",
-    "@dot-event/starter": "1.5.26",
+    "@dot-event/starter": "1.5.27",
     "@dot-event/version": "0.7.35",
     "@dot-event/watchman": "0.6.25"
   }
