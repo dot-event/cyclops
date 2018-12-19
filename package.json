@@ -33,15 +33,15 @@
     "dot-watchman": "./bin/dot"
   },
   "dependencies": {
-    "@dot-event/crypt": "0.1.31",
-    "@dot-event/fs": "1.11.23",
-    "@dot-event/gcloud": "0.0.14",
-    "@dot-event/git": "0.6.29",
-    "@dot-event/kubes": "0.0.21",
-    "@dot-event/link": "0.6.24",
-    "@dot-event/spawn": "2.6.25",
-    "@dot-event/starter": "1.5.28",
-    "@dot-event/version": "0.7.36",
-    "@dot-event/watchman": "0.6.26"
+    "@dot-event/crypt": "0.1.32",
+    "@dot-event/fs": "1.11.24",
+    "@dot-event/gcloud": "0.0.15",
+    "@dot-event/git": "0.6.30",
+    "@dot-event/kubes": "0.0.22",
+    "@dot-event/link": "0.6.25",
+    "@dot-event/spawn": "2.6.26",
+    "@dot-event/starter": "1.5.29",
+    "@dot-event/version": "0.7.37",
+    "@dot-event/watchman": "0.6.27"
   }
 }
