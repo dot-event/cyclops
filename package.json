@@ -1,6 +1,6 @@
 {
   "name": "cyclops",
-  "version": "1.8.52",
+  "version": "1.8.53",
   "description": "dot-event executables",
   "keywords": [
     "dot-event"
@@ -43,7 +43,7 @@
     "@dot-event/spawn": "2.6.33",
     "@dot-event/ssl": "0.0.9",
     "@dot-event/starter": "1.5.36",
-    "@dot-event/version": "0.7.47",
+    "@dot-event/version": "0.7.48",
     "@dot-event/watchman": "0.6.35"
   },
   "devDependencies": {}
